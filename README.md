@@ -1,4 +1,4 @@
-# 🎨 Simple NFT Minter on Base network
+# 🎨 NFT Minter on Base network
 
 A user-friendly Streamlit web app to mint NFTs on the Base network with IPFS metadata storage via Pinata.
 
