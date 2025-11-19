@@ -180,13 +180,6 @@ This project is licensed under the MIT License.
 - [Web3.py Documentation](https://web3py.readthedocs.io/)
 - [Streamlit Documentation](https://docs.streamlit.io/)
 
-## 🙏 Acknowledgments
-
-- Built with [Streamlit](https://streamlit.io/)
-- Smart contracts powered by [OpenZeppelin](https://openzeppelin.com/)
-- IPFS storage via [Pinata](https://pinata.cloud/)
-- Deployed on [Base](https://base.org/)
-
 ## 🎯 Roadmap
 
 - [ ] Add batch minting support
