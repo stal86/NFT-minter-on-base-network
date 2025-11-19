@@ -168,14 +168,6 @@ https://testnets.opensea.io/assets/base-sepolia/{CONTRACT_ADDRESS}/{TOKEN_ID}
 - The contract may not be deployed correctly
 - Public minting might not be active on the contract
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-
-
-
-
 ## 📝 License
 
 This project is licensed under the MIT License.
