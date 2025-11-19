@@ -171,7 +171,6 @@ https://testnets.opensea.io/assets/base-sepolia/{CONTRACT_ADDRESS}/{TOKEN_ID}
 ## 💡 Tips
 
 - **Test First**: Always test on Base Sepolia before mainnet
-- **Gas Fees**: Base has very low fees compared to Ethereum mainnet
 
 
 
