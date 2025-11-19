@@ -174,7 +174,7 @@ https://testnets.opensea.io/assets/base-sepolia/{CONTRACT_ADDRESS}/{TOKEN_ID}
 - **Gas Fees**: Base has very low fees compared to Ethereum mainnet
 - **Image Size**: Optimize images before uploading (recommended < 10MB)
 - **Metadata**: Include detailed descriptions and attributes for better OpenSea display
-- **Batch Operations**: For multiple NFTs, consider using the advanced contract with batch minting
+
 
 ## 🤝 Contributing
 
