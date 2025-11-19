@@ -119,7 +119,7 @@ Use [Remix IDE](https://remix.ethereum.org/) to deploy the `MyNFT.sol` contract:
 
 **⚠️ IMPORTANT SECURITY NOTES:**
 
-- **NEVER** commit your `.env` file to Git
+- NEVER commit your `.env` file to Git
 - **NEVER** share your private key
 - Use a separate wallet for minting (not your main wallet)
 - Test on Sepolia testnet before using mainnet
