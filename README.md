@@ -173,7 +173,7 @@ https://testnets.opensea.io/assets/base-sepolia/{CONTRACT_ADDRESS}/{TOKEN_ID}
 - **Test First**: Always test on Base Sepolia before mainnet
 - **Gas Fees**: Base has very low fees compared to Ethereum mainnet
 - **Image Size**: Optimize images before uploading (recommended < 10MB)
-- **Metadata**: Include detailed descriptions and attributes for better OpenSea display
+
 
 
 ## 🤝 Contributing
