@@ -197,6 +197,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Made with ❤️ by dnapog.base.eth for base network*
-
-*Star ⭐ this repo if you find it helpful!*
+Made with ❤️ by dnapog.base.eth
