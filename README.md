@@ -17,7 +17,7 @@ A user-friendly Streamlit web app to mint NFTs on the Base network with IPFS met
 
 - Python 3.8 or higher
 - MetaMask wallet with Base network configured
-- Pinata account (free tier works)
+- Pinata account
 - ETH on Base network for gas fees
 
 ### Installation
